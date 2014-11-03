@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BUC App</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_refresh">Refresh</string>
+
+    <!-- listActivity -->
+    <string name="list">รายการ</string>
+    <string name="send">ส่งสินค้า</string>
+    <string name="AddStock">เพิ่มสินค้า</string>
+
+    <!-- listStockActivity -->
+    
+    <string name="checkStock">รายการจัดของจัดส่ง</string>
+    <string name="listStock">รายการสินค้า</string>
+    <string name="listSendStock"> ลักษณะการจัดส่ง</string>
+   
+      <!-- StoreActivity -->
+    <string name="listStore">ใบคำขอเลขที่</string>
+    
+
+
+</resources>

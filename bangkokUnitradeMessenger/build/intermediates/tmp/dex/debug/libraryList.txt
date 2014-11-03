@@ -1,0 +1,13 @@
+/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/android-query-full.0.25.10-90359b138aff3d538434e62ba5ba5516d0bb828b.jar
+/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/butterknife-5.1.2-ff629baf1e19b01813a0fffbbb2999c77ced5fed.jar
+/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/classes-018d109a1b5ce61acefa2ddea29f3e12c43ff629.jar
+/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/classes-29e49acde22b8562e657156b4d118f7bdee92aa4.jar
+/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/classes-62f7a2f22a188cceaf48346e85e1a299bc1db65a.jar
+/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/classes-dd669b8042481a19520393f43e44deff1d866949.jar
+/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/classes-ee5db978b187c423e0bfd2f8d7255da4fa663b52.jar
+/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/classes-f6e0ec94e969e16a67cddd1a0a7cf2a41420ca3a.jar
+/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/core-3.0.1-70b5dab5cb63a5c3d97d23d9f8b0e3b027cbbd9b.jar
+/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-99dd8582da3b9f5a21e49ffe1851b25fe6185cbc.jar
+/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/picasso-2.3.4-f7100cc533fa89edd14bafd5d3f6e70cfe06ed32.jar
+/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-87abe2dde367d519e4fad625155de86f2884ecb1.jar
+/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/classes/debug

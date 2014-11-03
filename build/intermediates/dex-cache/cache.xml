@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/exploded-aar/com.embarkmobile/zxing-android-integration/2.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="32c0545546faa0e65a67bba8abc072b1aef5b136">
+        <dex dex="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/classes-dd669b8042481a19520393f43e44deff1d866949.jar" />
+    </item>
+    <item
+        jar="/Users/kong_mono/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.0.1/9ebf6cd580d67601fbf88fd007aab4703b19e4c2/core-3.0.1.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="9ebf6cd580d67601fbf88fd007aab4703b19e4c2">
+        <dex dex="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/core-3.0.1-70b5dab5cb63a5c3d97d23d9f8b0e3b027cbbd9b.jar" />
+    </item>
+    <item
+        jar="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-99dd8582da3b9f5a21e49ffe1851b25fe6185cbc.jar" />
+    </item>
+    <item
+        jar="/Users/kong_mono/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.4/3b646ddbdac8a33fc45b64564011da81d23e4635/picasso-2.3.4.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="3b646ddbdac8a33fc45b64564011da81d23e4635">
+        <dex dex="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/picasso-2.3.4-f7100cc533fa89edd14bafd5d3f6e70cfe06ed32.jar" />
+    </item>
+    <item
+        jar="/Users/kong_mono/android-sdks/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-87abe2dde367d519e4fad625155de86f2884ecb1.jar" />
+    </item>
+    <item
+        jar="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/libs/android-query-full.0.25.10.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="646ad6432a4da6a827e74ce64149c719ce7e86eb">
+        <dex dex="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/android-query-full.0.25.10-90359b138aff3d538434e62ba5ba5516d0bb828b.jar" />
+    </item>
+    <item
+        jar="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/exploded-aar/com.embarkmobile/zxing-android-legacy/2.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="3935235b42452c8e472b00a13770614bd9d5ea93">
+        <dex dex="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/classes-62f7a2f22a188cceaf48346e85e1a299bc1db65a.jar" />
+    </item>
+    <item
+        jar="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/classes-f6e0ec94e969e16a67cddd1a0a7cf2a41420ca3a.jar" />
+    </item>
+    <item
+        jar="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/exploded-aar/com.embarkmobile/zxing-android-minimal/2.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="cb9bbd4a4737c5d1720f03efe7de98df3a924ef1">
+        <dex dex="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/classes-018d109a1b5ce61acefa2ddea29f3e12c43ff629.jar" />
+    </item>
+    <item
+        jar="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/classes-29e49acde22b8562e657156b4d118f7bdee92aa4.jar" />
+    </item>
+    <item
+        jar="/Users/kong_mono/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/5.1.2/daf5472b0df6dabaceb6ad755b3812535863965a/butterknife-5.1.2.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="daf5472b0df6dabaceb6ad755b3812535863965a">
+        <dex dex="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/butterknife-5.1.2-ff629baf1e19b01813a0fffbbb2999c77ced5fed.jar" />
+    </item>
+    <item
+        jar="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/exploded-aar/com.badoo.mobile/android-weak-handler/1.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="b82ea4e1a3072739f03bcbfa979fa946604f4312">
+        <dex dex="/Users/kong_mono/AndroidStudioProjects/bangkok-unitrade-for-messenger/bangkokUnitradeMessenger/build/intermediates/pre-dexed/debug/classes-ee5db978b187c423e0bfd2f8d7255da4fa663b52.jar" />
+    </item>
+
+</items>
